@@ -1,0 +1,10 @@
+flask_restful
+psycopg2
+Flask
+psycopg2-binary
+python-dotenv
+flask-sqlalchemy
+requests
+pandas
+openpyxl
+flask-marshmallow
